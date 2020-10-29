@@ -1,0 +1,35 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;}
+body{
+  width: 700px;
+  line-height:2;
+  color: #000;
+  border: 5px solid #000;
+  box-shadow: 5px 10px 15px red;
+ 
+}
+
+li{
+    border-right: solid 1px #fff;
+    padding:2px  1.5em;  
+}
+    
+}
+p{
+    background:#D2B48C; 
+    padding: 20px;
+}
+
+img{
+padding-left: 2.5em
+}
+body {
+padding:1em;
+background:#fff     
+}
+html{
+background-color: black;
+    max-width:750px; 
+    margin:0 auto;
+}
+
